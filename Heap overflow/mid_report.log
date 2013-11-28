@@ -1,0 +1,158 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.4)  28 NOV 2013 18:00
+entering extended mode
+ %&-line parsing enabled.
+**mid_report
+(./mid_report.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/tree-dvips/lingmacros.sty
+\c@enums=\count87
+\widelabel=\dimen103
+\c@tempcnt=\count88
+\c@enumsi=\count89
+\eeindent=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/tree-dvips/tree-dvips.sty
+\nodemargin=\dimen105
+\treelinewidth=\dimen106
+\dashlength=\dimen107
+\arrowwidth=\dimen108
+\arrowlength=\dimen109
+\pos@t=\toks14
+\pos@b=\toks15
+\pos@l=\toks16
+\pos@r=\toks17
+\pos@tl=\toks18
+\pos@tr=\toks19
+\pos@bl=\toks20
+\pos@br=\toks21
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen110
+\Gin@req@width=\dimen111
+) (./mid_report.aux)
+\openout1 = `mid_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen112
+\scratchbox=\box26
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen113
+\MPnumerator=\count95
+\everyMPtoPDFconversion=\toks24
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
+ (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+
+<Malloc_check.png, id=1, 1686.3pt x 1053.9375pt>
+File: Malloc_check.png Graphic file (type png)
+ <use Malloc_check.png>
+Overfull \hbox (115.8939pt too wide) in paragraph at lines 16--17
+[] 
+ []
+
+<vul_pro.png, id=2, 1621.05624pt x 1029.8475pt>
+File: vul_pro.png Graphic file (type png)
+ <use vul_pro.png>
+Overfull \hbox (96.32063pt too wide) in paragraph at lines 19--20
+[] 
+ []
+
+[1
+
+
+Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./
+Malloc_check.png (PNG copy)>]
+<unlink_next_free_chunk.png, id=11, 465.74pt x 134.5025pt>
+File: unlink_next_free_chunk.png Graphic file (type png)
+
+<use unlink_next_free_chunk.png>
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+[2 <./vul_pro.png> <./unlink_next_free_chunk.png (PNG copy)>] (./mid_report.aux
+) ) 
+Here is how much of TeX's memory you used:
+ 1020 strings out of 493848
+ 12889 string characters out of 1152823
+ 63092 words of memory out of 3000000
+ 4339 multiletter control sequences out of 15000+50000
+ 5406 words of font info for 20 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 25i,5n,19p,199b,145s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on mid_report.pdf (2 pages, 313820 bytes).
+PDF statistics:
+ 26 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
