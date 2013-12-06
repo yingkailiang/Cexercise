@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.4)  5 DEC 2013 23:30
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.4)  6 DEC 2013 10:04
 entering extended mode
  %&-line parsing enabled.
 **mid_report.tex
@@ -131,39 +131,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--23
 
  []
 
-[1
+<malloc_chunk_code.png, id=2, 774.895pt x 232.87pt>
+File: malloc_chunk_code.png Graphic file (type png)
+
+<use malloc_chunk_code.png> [1
 
 
 Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./
 Malloc_check.png (PNG copy)>]
-<malloc_chunk_code.png, id=9, 774.895pt x 232.87pt>
 File: malloc_chunk_code.png Graphic file (type png)
-
-<use malloc_chunk_code.png>
+ <use malloc_chunk_code.png>
 <allocated_chunk.png, id=10, 783.92876pt x 234.8775pt>
 File: allocated_chunk.png Graphic file (type png)
 
 <use allocated_chunk.png>
-Overfull \hbox (19.58824pt too wide) in paragraph at lines 32--33
+Overfull \hbox (19.58824pt too wide) in paragraph at lines 36--37
 [][] 
  []
 
 <free_chunk.png, id=11, 798.985pt x 333.245pt>
 File: free_chunk.png Graphic file (type png)
  <use free_chunk.png>
-Overfull \hbox (27.11633pt too wide) in paragraph at lines 36--37
+Overfull \hbox (27.11633pt too wide) in paragraph at lines 40--41
 [][] 
  []
 
 [2 <./malloc_chunk_code.png (PNG copy)> <./allocated_chunk.png (PNG copy)>]
 <unlink.png, id=15, 741.77126pt x 560.0925pt>
 File: unlink.png Graphic file (type png)
- <use unlink.png>
-<unlink_double_free_check1.png, id=16, 741.77126pt x 134.5025pt>
+ <use unlink.png> [3 <./free_chunk.png (PNG copy)> <./unlink.png (PNG copy)>]
+<unlink_double_free_check1.png, id=19, 741.77126pt x 134.5025pt>
 File: unlink_double_free_check1.png Graphic file (type png)
 
-<use unlink_double_free_check1.png> [3 <./free_chunk.png (PNG copy)> <./unlink.
-png (PNG copy)>]
+<use unlink_double_free_check1.png>
 <unlink_double_free_check2.png, id=20, 435.6275pt x 37.13875pt>
 File: unlink_double_free_check2.png Graphic file (type png)
 
@@ -175,34 +175,38 @@ File: rm_linklist.png Graphic file (type png)
 
 <use rm_linklist.png>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 56.
+(Font)              <12> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 56.
+(Font)              <8> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 56.
-
-Overfull \hbox (30.34436pt too wide) in paragraph at lines 56--57
-[]\OT1/cmr/m/n/12 This equa-tion looks si-m-il-iar from the heap over-flow ad-d
-ress jump equation:$\OML/cmm/m/it/12 p\OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 >
- []
+(Font)              <6> on input line 60.
 
 <unlink_next_free_chunk.png, id=22, 465.74pt x 134.5025pt>
 File: unlink_next_free_chunk.png Graphic file (type png)
 
 <use unlink_next_free_chunk.png> [4 <./unlink_double_free_check1.png (PNG copy)
 > <./unlink_double_free_check2.png (PNG copy)> <./rm_linklist.png (PNG copy)> <
-./unlink_next_free_chunk.png (PNG copy)>]
-<diag_code.png, id=27, 586.19pt x 462.72874pt>
+./unlink_next_free_chunk.png (PNG copy)>] [5]
+<diag_code.png, id=30, 586.19pt x 462.72874pt>
 File: diag_code.png Graphic file (type png)
- <use diag_code.png> [5]
+ <use diag_code.png>
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
 <vul_prog.png, id=31, 768.8725pt x 508.90125pt>
 File: vul_prog.png Graphic file (type png)
  <use vul_prog.png>
-<compromised_layout.png, id=32, 715.67375pt x 879.285pt>
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+
+ []
+
+[6 <./diag_code.png (PNG copy)>]
+<compromised_layout.png, id=35, 715.67375pt x 879.285pt>
 File: compromised_layout.png Graphic file (type png)
 
-<use compromised_layout.png> [6 <./diag_code.png (PNG copy)> <./vul_prog.png (P
-NG copy)>] [7 <./compromised_layout.png (PNG copy)>] [8] (./mid_report.aux) ) 
+<use compromised_layout.png> [7 <./vul_prog.png (PNG copy)>] [8 <./compromised_
+layout.png (PNG copy)>] [9] (./mid_report.aux) ) 
 Here is how much of TeX's memory you used:
  1128 strings out of 493848
  14762 string characters out of 1152823
@@ -210,15 +214,15 @@ Here is how much of TeX's memory you used:
  4426 multiletter control sequences out of 15000+50000
  7587 words of font info for 27 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 25i,6n,19p,525b,145s stack positions out of 5000i,500n,10000p,200000b,50000s
-</
-usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/t
-exmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-texliv
-e/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb>
-Output written on mid_report.pdf (8 pages, 626274 bytes).
+ 25i,6n,19p,592b,145s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb>
+Output written on mid_report.pdf (9 pages, 627578 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
