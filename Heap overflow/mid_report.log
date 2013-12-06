@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.4)  28 NOV 2013 18:00
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.4)  5 DEC 2013 23:30
 entering extended mode
  %&-line parsing enabled.
-**mid_report
+**mid_report.tex
 (./mid_report.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
@@ -75,21 +75,30 @@ File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
 ))
 \Gin@req@height=\dimen110
 \Gin@req@width=\dimen111
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
 ) (./mid_report.aux)
 \openout1 = `mid_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
 (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count91
@@ -103,25 +112,23 @@ LaTeX Font Info:    ... okay on input line 5.
 \MPnumerator=\count95
 \everyMPtoPDFconversion=\toks24
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 12.
  (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
 
 <Malloc_check.png, id=1, 1686.3pt x 1053.9375pt>
 File: Malloc_check.png Graphic file (type png)
  <use Malloc_check.png>
-Overfull \hbox (115.8939pt too wide) in paragraph at lines 16--17
-[] 
+Underfull \hbox (badness 10000) in paragraph at lines 17--23
+
  []
 
-<vul_pro.png, id=2, 1621.05624pt x 1029.8475pt>
-File: vul_pro.png Graphic file (type png)
- <use vul_pro.png>
-Overfull \hbox (96.32063pt too wide) in paragraph at lines 19--20
-[] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--23
+
  []
 
 [1
@@ -129,30 +136,89 @@ Overfull \hbox (96.32063pt too wide) in paragraph at lines 19--20
 
 Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./
 Malloc_check.png (PNG copy)>]
-<unlink_next_free_chunk.png, id=11, 465.74pt x 134.5025pt>
-File: unlink_next_free_chunk.png Graphic file (type png)
+<malloc_chunk_code.png, id=9, 774.895pt x 232.87pt>
+File: malloc_chunk_code.png Graphic file (type png)
 
-<use unlink_next_free_chunk.png>
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+<use malloc_chunk_code.png>
+<allocated_chunk.png, id=10, 783.92876pt x 234.8775pt>
+File: allocated_chunk.png Graphic file (type png)
 
+<use allocated_chunk.png>
+Overfull \hbox (19.58824pt too wide) in paragraph at lines 32--33
+[][] 
  []
 
-[2 <./vul_pro.png> <./unlink_next_free_chunk.png (PNG copy)>] (./mid_report.aux
-) ) 
+<free_chunk.png, id=11, 798.985pt x 333.245pt>
+File: free_chunk.png Graphic file (type png)
+ <use free_chunk.png>
+Overfull \hbox (27.11633pt too wide) in paragraph at lines 36--37
+[][] 
+ []
+
+[2 <./malloc_chunk_code.png (PNG copy)> <./allocated_chunk.png (PNG copy)>]
+<unlink.png, id=15, 741.77126pt x 560.0925pt>
+File: unlink.png Graphic file (type png)
+ <use unlink.png>
+<unlink_double_free_check1.png, id=16, 741.77126pt x 134.5025pt>
+File: unlink_double_free_check1.png Graphic file (type png)
+
+<use unlink_double_free_check1.png> [3 <./free_chunk.png (PNG copy)> <./unlink.
+png (PNG copy)>]
+<unlink_double_free_check2.png, id=20, 435.6275pt x 37.13875pt>
+File: unlink_double_free_check2.png Graphic file (type png)
+
+<use unlink_double_free_check2.png>
+<rm_linklist.png, id=21, 518.93875pt x 41.15375pt>
+File: rm_linklist.png Graphic file (type png)
+ <use rm_linklist.png>
+File: rm_linklist.png Graphic file (type png)
+
+<use rm_linklist.png>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 56.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 56.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 56.
+
+Overfull \hbox (30.34436pt too wide) in paragraph at lines 56--57
+[]\OT1/cmr/m/n/12 This equa-tion looks si-m-il-iar from the heap over-flow ad-d
+ress jump equation:$\OML/cmm/m/it/12 p\OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 >
+ []
+
+<unlink_next_free_chunk.png, id=22, 465.74pt x 134.5025pt>
+File: unlink_next_free_chunk.png Graphic file (type png)
+
+<use unlink_next_free_chunk.png> [4 <./unlink_double_free_check1.png (PNG copy)
+> <./unlink_double_free_check2.png (PNG copy)> <./rm_linklist.png (PNG copy)> <
+./unlink_next_free_chunk.png (PNG copy)>]
+<diag_code.png, id=27, 586.19pt x 462.72874pt>
+File: diag_code.png Graphic file (type png)
+ <use diag_code.png> [5]
+<vul_prog.png, id=31, 768.8725pt x 508.90125pt>
+File: vul_prog.png Graphic file (type png)
+ <use vul_prog.png>
+<compromised_layout.png, id=32, 715.67375pt x 879.285pt>
+File: compromised_layout.png Graphic file (type png)
+
+<use compromised_layout.png> [6 <./diag_code.png (PNG copy)> <./vul_prog.png (P
+NG copy)>] [7 <./compromised_layout.png (PNG copy)>] [8] (./mid_report.aux) ) 
 Here is how much of TeX's memory you used:
- 1020 strings out of 493848
- 12889 string characters out of 1152823
- 63092 words of memory out of 3000000
- 4339 multiletter control sequences out of 15000+50000
- 5406 words of font info for 20 fonts, out of 3000000 for 9000
+ 1128 strings out of 493848
+ 14762 string characters out of 1152823
+ 66943 words of memory out of 3000000
+ 4426 multiletter control sequences out of 15000+50000
+ 7587 words of font info for 27 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 25i,5n,19p,199b,145s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sh
-are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-te
-xlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on mid_report.pdf (2 pages, 313820 bytes).
+ 25i,6n,19p,525b,145s stack positions out of 5000i,500n,10000p,200000b,50000s
+</
+usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/t
+exmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-texliv
+e/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb>
+Output written on mid_report.pdf (8 pages, 626274 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
